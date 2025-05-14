@@ -25,3 +25,7 @@ Next, I focused on identifying the top-selling product in each category. For thi
 Finally, I wrote a more advanced query using a Common Table Expression (CTE) to analyze monthly sales and average sales per product. In the first part of the CTE, I grouped the sales data by product and month, calculating total sales for each combination. In the main query, I applied the AVG() window function to determine the average monthly sales per product. This helped in identifying fluctuations — like which months had better performance and whether a product had stable or volatile sales.
 Throughout the task, I used MySQL Workbench for writing and running SQL queries. The tool made it easier to debug, visualize table relationships, and understand how changes in data impacted the resultThis exercise gave me practical experience with analytical SQL, particularly with window functions, CTEs, and subqueries. It also helped me understand how simple tables can be used to simulate real business scenarios and generate useful insights. From identifying best-selling products to tracking trends over time, I learned how SQL can be a powerful tool for business decision-making.
 Overall, this task enhanced my understanding of sales data analysis and strengthened my skills in writing meaningful, performance-driven SQL queries
+
+#Output 
+
+![Image](https://github.com/user-attachments/assets/039a891b-30fa-450e-9645-c50823e9768b)
